@@ -1,4 +1,4 @@
-# 🚀 Checkmate Setup Script mit Let's Encrypt - Andreas Höfler Edition
+# 🚀 Checkmate Interaktives Setup Script mit Let's Encrypt
 
 Ein interaktives Setup-Script für Checkmate (Uptime Monitoring) mit automatischer Docker-Installation und Let's Encrypt SSL.
 
